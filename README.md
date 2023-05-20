@@ -1,7 +1,7 @@
 ### URL Shortner
 
 ```py
-# Include your Bitly access token below
+# Include your Bitly access token in url_shortner.py as following ex
 
 ACCESS_TOKEN = "your access token"
 ```
